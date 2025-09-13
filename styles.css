@@ -1,0 +1,12 @@
+.Title{
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+    color: red;
+    background-color: black;
+}
+body{
+    background-color: black;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
