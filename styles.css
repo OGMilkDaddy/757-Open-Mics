@@ -13,4 +13,8 @@ body{
 footer{
     color: white;
 }
+.Calendar{
+    width: 100%;
+    height: 600;
+}
 
