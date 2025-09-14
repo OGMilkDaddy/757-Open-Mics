@@ -13,8 +13,12 @@ body{
 footer{
     color: white;
 }
-.Calendar{
+
+@media (max-width: 768px) {
+  .Calendar{
     width: 100%;
     height: 600;
 }
+  }
+
 
