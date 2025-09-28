@@ -18,9 +18,10 @@ footer{
   .Calendar{
     width: 100%;
     height: 600;
-    filter: invert(100%)
+    filter: invert(100%);
 }
   }
+
 
 
 
